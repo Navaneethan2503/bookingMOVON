@@ -1,0 +1,36 @@
+a, a:link,a:visited,a:active {
+    color: rgb(102, 0, 0);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+body {
+    font-family: Trebuchet MS, sans-serif; font-size: larger;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    color: rgb(102, 0, 0);
+}
+td {
+    text-align: center;
+}
+img {
+    border-style: solid;
+    border-color: rgb(0,0,0);
+    border-width: 0px;
+    max-height: 100px;
+    max-width: 100px;
+}
+table.center {margin-left:auto; margin-right:auto;}
+#httphotos {
+    position: absolute;
+    right: 0px;
+    bottom: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#httphotos img {
+    border: 0px;
+}
